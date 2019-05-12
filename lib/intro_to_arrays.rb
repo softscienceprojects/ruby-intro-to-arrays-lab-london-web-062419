@@ -4,5 +4,5 @@ end
 
 def array_with_two_elements(el1, el2)
   new_array = [el1, el2]
-  return new_array
+  new_array
 end
